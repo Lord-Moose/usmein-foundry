@@ -1,0 +1,5046 @@
+{
+  "_id": "u0ZlnbC3bGvYaBwD",
+  "name": "Components",
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "rrinnoroth",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.2"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Component Tables",
+  "results": [
+    {
+      "_id": "rF4UN0AW9o8qJpDp",
+      "flags": {},
+      "type": 0,
+      "text": "Ash",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fGLhn3JwKVLF3ljX",
+      "flags": {},
+      "type": 0,
+      "text": "Ashes of Mistletoe and Spruce",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        7,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "C4xWAREAv55vtHEe",
+      "flags": {},
+      "type": 0,
+      "text": "Bell (tiny)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        13,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "51QTgiFCNB1pwiZr",
+      "flags": {},
+      "type": 0,
+      "text": "Bitumen (a drop)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        19,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IsqZsEsSR394gPe9",
+      "flags": {},
+      "type": 0,
+      "text": "Black Silk Square",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        25,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MONF5j3nI03FMkPY",
+      "flags": {},
+      "type": 0,
+      "text": "Blood (a drop)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        31,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kNUcHr1p9YSSkuM5",
+      "flags": {},
+      "type": 0,
+      "text": "Blood (a drop)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        37,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2HWdhStldrqvpFF3",
+      "flags": {},
+      "type": 0,
+      "text": "Blood (a vial)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        43,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tZcuuUINgRSnde6O",
+      "flags": {},
+      "type": 0,
+      "text": "Blood (a vial)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        49,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xfd6RDGagZ2Nd0iT",
+      "flags": {},
+      "type": 0,
+      "text": "Bull Hairs",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        55,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "avQ8Denq14Eiafzc",
+      "flags": {},
+      "type": 0,
+      "text": "Butter",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        61,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2b6Lzpeid7R8zQSt",
+      "flags": {},
+      "type": 0,
+      "text": "Caterpillar Cocoon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        67,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Hn047jxT7ymTRYU7",
+      "flags": {},
+      "type": 0,
+      "text": "Caterpillar Cocoon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        73,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oWuM4gaXsogbLF3i",
+      "flags": {},
+      "type": 0,
+      "text": "Charcoal, Incense, and Herb mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0NwSyC4LuGnPAwNc",
+      "flags": {},
+      "type": 0,
+      "text": "Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LTlSapIuI1zcuigN",
+      "flags": {},
+      "type": 0,
+      "text": "Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        91,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vMkMoFtBJPwsR4Ki",
+      "flags": {},
+      "type": 0,
+      "text": "Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        97,
+        102
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2wFHIFabOI1rnwp3",
+      "flags": {},
+      "type": 0,
+      "text": "Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        103,
+        108
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OEzwZ4sLxUkygKAq",
+      "flags": {},
+      "type": 0,
+      "text": "Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        109,
+        114
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jeB6Ns97q0W8ddfx",
+      "flags": {},
+      "type": 0,
+      "text": "Clay and Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        115,
+        120
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RlcmJM5PDwvlph6V",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak, miniature",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        121,
+        126
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MEPz6qvKSfGa4QvA",
+      "flags": {},
+      "type": 0,
+      "text": "Cloth wad",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        127,
+        132
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FzAChW77xbT0EUmZ",
+      "flags": {},
+      "type": 0,
+      "text": "Cloth, Tiny white strip",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        133,
+        138
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QqJ1VclTLOwkeDsD",
+      "flags": {},
+      "type": 0,
+      "text": "Club",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        139,
+        144
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3KRY3u0lbOKZDzL6",
+      "flags": {},
+      "type": 0,
+      "text": "Coal",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        145,
+        150
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AZjdF6dxucgJvQJy",
+      "flags": {},
+      "type": 0,
+      "text": "Colored Sand (red, yellow, and blue)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        151,
+        156
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Vp4luq8KqMl9NK07",
+      "flags": {},
+      "type": 0,
+      "text": "Copper Piece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        157,
+        162
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sKlTE5ydMGKZAtED",
+      "flags": {},
+      "type": 0,
+      "text": "Copper Pieces",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        163,
+        168
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7oUAEvXogYCpHpz4",
+      "flags": {},
+      "type": 0,
+      "text": "Cork",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        169,
+        174
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YQXVxoH3MRD4Wlv3",
+      "flags": {},
+      "type": 0,
+      "text": "Corn, powdered",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        175,
+        180
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JXcKwskC87pJem7a",
+      "flags": {},
+      "type": 0,
+      "text": "Cricket",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        181,
+        186
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FHsp5NP5xngS8YEb",
+      "flags": {},
+      "type": 0,
+      "text": "Cured Leather",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        187,
+        192
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "i2p3UoU3pIMKkL9z",
+      "flags": {},
+      "type": 0,
+      "text": "Dirt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        193,
+        198
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JQ4XGsdglOBWryuv",
+      "flags": {},
+      "type": 0,
+      "text": "Dirt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        199,
+        204
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZG1iHBT9EQ3eDjZ7",
+      "flags": {},
+      "type": 0,
+      "text": "Dirt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        205,
+        210
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qmcAuBVMEGVc754n",
+      "flags": {},
+      "type": 0,
+      "text": "Dried Carrot",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        211,
+        216
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HqlnIGNvmiKzGGhW",
+      "flags": {},
+      "type": 0,
+      "text": "Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        217,
+        222
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LHqSialZvVaTeiZY",
+      "flags": {},
+      "type": 0,
+      "text": "Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        223,
+        228
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wD7OiR30EHnekTDX",
+      "flags": {},
+      "type": 0,
+      "text": "Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        229,
+        234
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aNbAx02dxrRRbdd2",
+      "flags": {},
+      "type": 0,
+      "text": "Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        235,
+        240
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EKTM3OhpGu5wheyD",
+      "flags": {},
+      "type": 0,
+      "text": "Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        241,
+        246
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AClJ9jOmebeyrO0h",
+      "flags": {},
+      "type": 0,
+      "text": "Eggshell",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        247,
+        252
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "toBeaIStGH1IZid7",
+      "flags": {},
+      "type": 0,
+      "text": "Eggshells",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        253,
+        258
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1593y0yNmFZENOdv",
+      "flags": {},
+      "type": 0,
+      "text": "Fan, tiny",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        259,
+        264
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dvElOrSwz8pwc582",
+      "flags": {},
+      "type": 0,
+      "text": "Feather",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        265,
+        270
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AJgSPgIo33Occ50m",
+      "flags": {},
+      "type": 0,
+      "text": "Feather",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        271,
+        276
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y6hlxD1oXTB8sZ1G",
+      "flags": {},
+      "type": 0,
+      "text": "Feather",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        277,
+        282
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vSm2s7ULCoYCjWxS",
+      "flags": {},
+      "type": 0,
+      "text": "Feather from any bird's wing",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        283,
+        288
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lJLiV0BCNdTmgIJY",
+      "flags": {},
+      "type": 0,
+      "text": "Feather of hummingbird",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        289,
+        294
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UfmvPhjX1V9PwKB2",
+      "flags": {},
+      "type": 0,
+      "text": "Feather of owl",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        295,
+        300
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "I8l1HJFAqqfiNOAX",
+      "flags": {},
+      "type": 0,
+      "text": "Feather, exotic",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        301,
+        306
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rejohWE5uqzM1UDl",
+      "flags": {},
+      "type": 0,
+      "text": "Feather, white",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        307,
+        312
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7Y5ghi4iZhwmFzx6",
+      "flags": {},
+      "type": 0,
+      "text": "Feldspar",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        313,
+        318
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VtgOIGxLTM8mNUEm",
+      "flags": {},
+      "type": 0,
+      "text": "Firefly",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        319,
+        324
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mGLTHAGJDROPkozM",
+      "flags": {},
+      "type": 0,
+      "text": "Firefly",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        325,
+        330
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uQeria2ojUoBn7Fl",
+      "flags": {},
+      "type": 0,
+      "text": "Flame",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        331,
+        336
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BJVKhk6IfGtC8SFu",
+      "flags": {},
+      "type": 0,
+      "text": "Flame",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        337,
+        342
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cME2iZ3usimpLeQv",
+      "flags": {},
+      "type": 0,
+      "text": "Flame",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        343,
+        348
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xWx2BE3Y62pkTMsF",
+      "flags": {},
+      "type": 0,
+      "text": "Flea (Living)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        349,
+        354
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PGPYElZ8nv1VhtC2",
+      "flags": {},
+      "type": 0,
+      "text": "Fleece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        355,
+        360
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3IdEjcM7mm8Dl0tv",
+      "flags": {},
+      "type": 0,
+      "text": "Fleece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        361,
+        366
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fE7zfWjohETnInER",
+      "flags": {},
+      "type": 0,
+      "text": "Fleece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        367,
+        372
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eQRxUVFB1XtJWgXF",
+      "flags": {},
+      "type": 0,
+      "text": "Fleece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        373,
+        378
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7KEeK3YijHD0p97u",
+      "flags": {},
+      "type": 0,
+      "text": "Fleece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        379,
+        384
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BrFaoULv6MXDqXdN",
+      "flags": {},
+      "type": 0,
+      "text": "Food morsel",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        385,
+        390
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ubB2vIoaduRVqMe5",
+      "flags": {},
+      "type": 0,
+      "text": "Food morsel",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        391,
+        396
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "U021tzWLldtVXjo9",
+      "flags": {},
+      "type": 0,
+      "text": "Forked Twig",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        397,
+        402
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kS2oC2xRfYv4B6N4",
+      "flags": {},
+      "type": 0,
+      "text": "Fur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        403,
+        408
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2wfekLpMrEusgqB4",
+      "flags": {},
+      "type": 0,
+      "text": "Fur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        409,
+        414
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FgGcd4rFrKvEZflu",
+      "flags": {},
+      "type": 0,
+      "text": "Fur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        415,
+        420
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UVrxY9wUYwDyzaj5",
+      "flags": {},
+      "type": 0,
+      "text": "Fur of Bat",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        421,
+        426
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NCmyIe6UUDxgDxKJ",
+      "flags": {},
+      "type": 0,
+      "text": "Fur of Bat",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        427,
+        432
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6cQ48hlAMbmnev1o",
+      "flags": {},
+      "type": 0,
+      "text": "Fur of Bloodhound",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        433,
+        438
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Tt9dTUqCfOCoB4zT",
+      "flags": {},
+      "type": 0,
+      "text": "Fur of Bloodhound",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        439,
+        444
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "q1WZvooHIBFMffj1",
+      "flags": {},
+      "type": 0,
+      "text": "Fur, Wrapped in Cloth",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        445,
+        450
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DTQBEa9GWidzSOsc",
+      "flags": {},
+      "type": 0,
+      "text": "Gauze",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        451,
+        456
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2deWhi7kPoI9Z08y",
+      "flags": {},
+      "type": 0,
+      "text": "Glass Sliver",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        457,
+        462
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y6CGni0zc8D992je",
+      "flags": {},
+      "type": 0,
+      "text": "Glowworm",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        463,
+        468
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vzi6wRSSS5vWCik3",
+      "flags": {},
+      "type": 0,
+      "text": "Gold dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        469,
+        474
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FzHi63JRHbhIzcLo",
+      "flags": {},
+      "type": 0,
+      "text": "Grasshopper's Hind Leg",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        475,
+        480
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "srfVugUcoaCRYeIP",
+      "flags": {},
+      "type": 0,
+      "text": "Green Plant",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        481,
+        486
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rDo6UPCYIb0tuur3",
+      "flags": {},
+      "type": 0,
+      "text": "Guano",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        487,
+        492
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ywPckri4oiLgbyaE",
+      "flags": {},
+      "type": 0,
+      "text": "Guano",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        493,
+        498
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xvSk56Ccipo2yfu4",
+      "flags": {},
+      "type": 0,
+      "text": "Hand Mirror",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        499,
+        504
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ck6Rld2rGf3Qm3wz",
+      "flags": {},
+      "type": 0,
+      "text": "Honeycomb",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        505,
+        510
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WwbBDz9S5DAgN5Yb",
+      "flags": {},
+      "type": 0,
+      "text": "Honeycomb",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        511,
+        516
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KsnC2D8IwVShFyP9",
+      "flags": {},
+      "type": 0,
+      "text": "Honeycomb",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        517,
+        522
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aGRi7bufXiljIO0u",
+      "flags": {},
+      "type": 0,
+      "text": "Hot Pepper",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        523,
+        528
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LWjPnm3yNhkKNj2o",
+      "flags": {},
+      "type": 0,
+      "text": "Ice",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        529,
+        534
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ywFkFGDm4hALTlXL",
+      "flags": {},
+      "type": 0,
+      "text": "Ice",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        535,
+        540
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9gmVUYQ1z02NVaYN",
+      "flags": {},
+      "type": 0,
+      "text": "Ink",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        541,
+        546
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jjoRCqqo1nbnFUfG",
+      "flags": {},
+      "type": 0,
+      "text": "Ink, Lead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        547,
+        552
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pXZcp1Am3HUBh7RR",
+      "flags": {},
+      "type": 0,
+      "text": "Iron",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        553,
+        558
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lXtqcQ8RBztzYyNq",
+      "flags": {},
+      "type": 0,
+      "text": "Iron",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        559,
+        564
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "13A0tur8u9rAX19y",
+      "flags": {},
+      "type": 0,
+      "text": "Iron",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        565,
+        570
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0gLIVliPlv1U3MAo",
+      "flags": {},
+      "type": 0,
+      "text": "Iron filings or powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        571,
+        576
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ocmuBn7Ezt47lpZR",
+      "flags": {},
+      "type": 0,
+      "text": "Iron filings or powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        577,
+        582
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KiotxLPnZLrxZTKr",
+      "flags": {},
+      "type": 0,
+      "text": "Iron filings or powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        583,
+        588
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3xWXObubcDnEv5xB",
+      "flags": {},
+      "type": 0,
+      "text": "Iron filings or powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        589,
+        594
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rPfT0S6rNeX5sGFi",
+      "flags": {},
+      "type": 0,
+      "text": "Kernels of Grain",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        595,
+        600
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ylmg7NIQgg7chBJu",
+      "flags": {},
+      "type": 0,
+      "text": "Knotted String",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        601,
+        606
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8PPElBNnNzsAL2tI",
+      "flags": {},
+      "type": 0,
+      "text": "Lead, a thin sheet",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        607,
+        612
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oQTtieIfeetofJre",
+      "flags": {},
+      "type": 0,
+      "text": "Leather Loop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        613,
+        618
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9puqKfOFkWaw6UEL",
+      "flags": {},
+      "type": 0,
+      "text": "Leather strap, bound around arm or similar appendage",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        619,
+        624
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "o4SsArDqCOTNTA5I",
+      "flags": {},
+      "type": 0,
+      "text": "Legume Seed",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        625,
+        630
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UbwPggaCHFcC597q",
+      "flags": {},
+      "type": 0,
+      "text": "Licorice Root Shaving",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        631,
+        636
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eHVw65Fyj761ydtY",
+      "flags": {},
+      "type": 0,
+      "text": "Lime",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        637,
+        642
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uKzpjFp08RQrw9Fq",
+      "flags": {},
+      "type": 0,
+      "text": "Lodestone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        643,
+        648
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "m0WZnpV47sfobNKq",
+      "flags": {},
+      "type": 0,
+      "text": "Lodestone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        649,
+        654
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uei0pAUPqGwDdVeS",
+      "flags": {},
+      "type": 0,
+      "text": "Lodestone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        655,
+        660
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Sb8tlExFXPUArp3g",
+      "flags": {},
+      "type": 0,
+      "text": "Makeup",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        661,
+        666
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FNvrhyZ714U3BWpS",
+      "flags": {},
+      "type": 0,
+      "text": "Mandrake Root",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        667,
+        672
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tDZrsG0Md9eCsvEy",
+      "flags": {},
+      "type": 0,
+      "text": "Mistletoe sprig",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        673,
+        678
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VCEajh0uTVhxc3nA",
+      "flags": {},
+      "type": 0,
+      "text": "Mistletoe sprig",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        679,
+        684
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iHtRGObpHbDZ6h8j",
+      "flags": {},
+      "type": 0,
+      "text": "Nut Shells (3)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        685,
+        690
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "thZXhIO6TOSWNg8B",
+      "flags": {},
+      "type": 0,
+      "text": "Oak bark",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        691,
+        696
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ThJy1YM68CoonTu7",
+      "flags": {},
+      "type": 0,
+      "text": "Paper or Leaf Funnel",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        697,
+        702
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gdAfhVFi3OkcgNUQ",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorescent Moss",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        703,
+        708
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8SeAfcKGL0NCRfJ7",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        709,
+        714
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gnZ7GDDOAloVZDGG",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        715,
+        720
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "p9KzVyxtJsBgvx7o",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        721,
+        726
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UQ6tKfH1MGpaJEjG",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        727,
+        732
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BDiP0sRDG318UI0t",
+      "flags": {},
+      "type": 0,
+      "text": "Phosphorus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        733,
+        738
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xv7CAGF0hd3fHbwG",
+      "flags": {},
+      "type": 0,
+      "text": "Pork Rind or other fat",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        739,
+        744
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1vPe5ZSv2MOdvlT6",
+      "flags": {},
+      "type": 0,
+      "text": "Pork Rind or other fat",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        745,
+        750
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eedAHVu8spCiEWNi",
+      "flags": {},
+      "type": 0,
+      "text": "Quartz",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        751,
+        756
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XeICWiZftlE2kIKi",
+      "flags": {},
+      "type": 0,
+      "text": "Reed",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        757,
+        762
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DPetUq5pj77TmMB7",
+      "flags": {},
+      "type": 0,
+      "text": "Rhubarb Leaf, powdered",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        763,
+        768
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bBs2iQIFlLEoT9oY",
+      "flags": {},
+      "type": 0,
+      "text": "Rock Chip, white",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        769,
+        774
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DSDGT34kIu83RWWm",
+      "flags": {},
+      "type": 0,
+      "text": "Rose petals",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        775,
+        780
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BdPRve8w97ZoYoUW",
+      "flags": {},
+      "type": 0,
+      "text": "Rotten Egg",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        781,
+        786
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ulu45VA2zpFwPi0G",
+      "flags": {},
+      "type": 0,
+      "text": "Salt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        787,
+        792
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XNeJJCjGqvO2Bz6G",
+      "flags": {},
+      "type": 0,
+      "text": "Salt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        793,
+        798
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0xAopfY4vzjVr1TY",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        799,
+        804
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FX7X0YMtp74XhMpz",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        805,
+        810
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pkka860osPH2Q3pD",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        811,
+        816
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wa0pdUmz0TKM0zVT",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        817,
+        822
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Gvz2weh7zhVrTZtJ",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        823,
+        828
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wHh2s16fTzMFzrCL",
+      "flags": {},
+      "type": 0,
+      "text": "Sand",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        829,
+        834
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FcpXhBXJlph4En9K",
+      "flags": {},
+      "type": 0,
+      "text": "Shamrock",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        835,
+        840
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QZSikyFBO0ZiI9WU",
+      "flags": {},
+      "type": 0,
+      "text": "Skunk Cabbage Leaves",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        841,
+        846
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bjvCoayp1HgK6Z27",
+      "flags": {},
+      "type": 0,
+      "text": "Snaketongue",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        847,
+        852
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QY2Tn4Btqiezr2MF",
+      "flags": {},
+      "type": 0,
+      "text": "Snaketongue",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        853,
+        858
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6qaR8Jexdp2av8ri",
+      "flags": {},
+      "type": 0,
+      "text": "Soil mixture in a small bag",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        859,
+        864
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "b2nW7giP5cHSqf5i",
+      "flags": {},
+      "type": 0,
+      "text": "Soot",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        865,
+        870
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2JA5nueC7btjIT0y",
+      "flags": {},
+      "type": 0,
+      "text": "Spider",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        871,
+        876
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "efaHyVUA09N9Go0l",
+      "flags": {},
+      "type": 0,
+      "text": "Spiderweb",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        877,
+        882
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SVRe7bsntikDHdBJ",
+      "flags": {},
+      "type": 0,
+      "text": "Stem of a Thorny Plant",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        883,
+        888
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "P1Dua5uQOMmrhFuz",
+      "flags": {},
+      "type": 0,
+      "text": "Stone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        889,
+        894
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iOlYvBFkcdkjFP3k",
+      "flags": {},
+      "type": 0,
+      "text": "Stone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        895,
+        900
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "08uQukzwIjB7pcqo",
+      "flags": {},
+      "type": 0,
+      "text": "Straw",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        901,
+        906
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QjfzN9jx1HETH8XH",
+      "flags": {},
+      "type": 0,
+      "text": "Straw",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        907,
+        912
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7qWFbZAeqruE16WU",
+      "flags": {},
+      "type": 0,
+      "text": "String",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        913,
+        918
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "erKzWlMlGKTFPGUB",
+      "flags": {},
+      "type": 0,
+      "text": "Sugar",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        919,
+        924
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "86608BEfgLHtObXT",
+      "flags": {},
+      "type": 0,
+      "text": "Sulfur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        925,
+        930
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jxOZF4GpncjTKb0O",
+      "flags": {},
+      "type": 0,
+      "text": "Sulfur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        931,
+        936
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "heYrGzZtoDVc1No2",
+      "flags": {},
+      "type": 0,
+      "text": "Sulfur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        937,
+        942
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xVZom4CB3TSUH6PK",
+      "flags": {},
+      "type": 0,
+      "text": "Sulfur",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        943,
+        948
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5COKDNVtQrQR1d2U",
+      "flags": {},
+      "type": 0,
+      "text": "Thorns",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        949,
+        954
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "blOzeMQ5sbPHtA2z",
+      "flags": {},
+      "type": 0,
+      "text": "Thorns, seven",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        955,
+        960
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sPqq4HwefupbavVB",
+      "flags": {},
+      "type": 0,
+      "text": "Thread",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        961,
+        966
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "x9OgwKLAGgAKNGAT",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        967,
+        972
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gjIHTiFEui39F83q",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        973,
+        978
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JvsjhFtlu2sgtMgl",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        979,
+        984
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jFyUhRoz4S0l1kBe",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        985,
+        990
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bdCw8r6kiHjl7ogN",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        991,
+        996
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kYIonGd8RPZ5GOC9",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        997,
+        1002
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jm96acGcaxxsvAC1",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1003,
+        1008
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JH652PZlc6kVzvOy",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1009,
+        1014
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JZWtQZ4vv1TiqwLv",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1015,
+        1020
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kyAn2c80Cjq3PmtU",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1021,
+        1026
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "r495635AtioiORJE",
+      "flags": {},
+      "type": 0,
+      "text": "Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1027,
+        1032
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "a6XLXDm4trRA2esN",
+      "flags": {},
+      "type": 0,
+      "text": "Wood",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1033,
+        1038
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mqcw8LMEOC0S8fvf",
+      "flags": {},
+      "type": 0,
+      "text": "Wychwood",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1039,
+        1044
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ImpUc7PzuQoa2XVu",
+      "flags": {},
+      "type": 0,
+      "text": "Yew Leaf",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1045,
+        1050
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6D4F9wqgbSo5IgOo",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine, small piece",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1051,
+        1051
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6wpWbiYw0kHYfTqQ",
+      "flags": {},
+      "type": 0,
+      "text": "Agate",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1052,
+        1052
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Z7kGePYDrfhVPtUh",
+      "flags": {},
+      "type": 0,
+      "text": "Artistic Representation of Caster",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1053,
+        1053
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AtmviFZ7b245zHji",
+      "flags": {},
+      "type": 0,
+      "text": "Artistic Representation of Target",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1054,
+        1054
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "q8pHZHvMwUliIS1D",
+      "flags": {},
+      "type": 0,
+      "text": "Chalks and Inks infused with precious gems",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1055,
+        1055
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "e0uvMSKl6Qgst48s",
+      "flags": {},
+      "type": 0,
+      "text": "Chrysolite powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1056,
+        1056
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vPSumqKEPI2YwgKk",
+      "flags": {},
+      "type": 0,
+      "text": "Clay Pot of Grave Dirt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1057,
+        1057
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "h8e7Q0UZhuuxoElX",
+      "flags": {},
+      "type": 0,
+      "text": "Detritus from the target creature",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1058,
+        1058
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "E6dz8lBQa4JFUQJT",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1059,
+        1059
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QfQ5W9imjYCx7yDc",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1060,
+        1060
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4ax9feUVu5b1LWlY",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1061,
+        1061
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9A9SCH9SrOthq7cO",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond and Opal, powdered mix",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1062,
+        1062
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oQlnTQhHPZLFKmPJ",
+      "flags": {},
+      "type": 0,
+      "text": "Diamonds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1063,
+        1063
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0hHK1RTjv7MqXE1V",
+      "flags": {},
+      "type": 0,
+      "text": "Exquisite Chest,",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1064,
+        1066
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "o0CYKuHGy9851Lry",
+      "flags": {},
+      "type": 0,
+      "text": "Exquisite Chest, tiny replica",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1067,
+        1067
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wgWLmRYal0dwVq1n",
+      "flags": {},
+      "type": 0,
+      "text": "Focus",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1068,
+        1068
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "b9aYCDcyvNRU2vyV",
+      "flags": {},
+      "type": 0,
+      "text": "Forked Metal Rod",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1069,
+        1069
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3ZZwZ6uiL1HqRvz5",
+      "flags": {},
+      "type": 0,
+      "text": "Gem-Encrusted Bowl",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1070,
+        1070
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WThK8qAXt00cKoh6",
+      "flags": {},
+      "type": 0,
+      "text": "Gems, as powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1071,
+        1071
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D7toHW0fIP96MZH8",
+      "flags": {},
+      "type": 0,
+      "text": "Giant Slug Bile",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1072,
+        1072
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "u66fz9AWneE4vrGf",
+      "flags": {},
+      "type": 0,
+      "text": "Herbs, Oils, and Incense mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1073,
+        1073
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "w7AgJp4hdeoV135X",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1074,
+        1074
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "anyd7VKSuLwRkn19",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1075,
+        1075
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kiTbr8Pl4TD1EMmq",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1076,
+        1076
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sk0mQiGelTUc8c9n",
+      "flags": {},
+      "type": 0,
+      "text": "Ivory Portal (miniature)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1077,
+        1077
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "O3jYAbJCvOT51xa3",
+      "flags": {},
+      "type": 0,
+      "text": "Jacinth",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1078,
+        1078
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Zek6mIxz8J9BNf3y",
+      "flags": {},
+      "type": 0,
+      "text": "Jade Circlet",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1079,
+        1079
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KFvjrJptisMWVe1u",
+      "flags": {},
+      "type": 0,
+      "text": "Jewel",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1080,
+        1080
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HiDKGv3OXotdCv2F",
+      "flags": {},
+      "type": 0,
+      "text": "Jewel-Encrusted Dagger",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1081,
+        1081
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oLvanUOvpvzVbj29",
+      "flags": {},
+      "type": 0,
+      "text": "Oils and Unguents",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1082,
+        1082
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vHGHYWXC9mjfwRul",
+      "flags": {},
+      "type": 0,
+      "text": "Platinum Sword, miniature, with grip and pommel of copper and zinc",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1083,
+        1083
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EOEmMaBztklz68Bj",
+      "flags": {},
+      "type": 0,
+      "text": "Red Dragon's Scale",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1084,
+        1084
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LGNRibHNvhvLx1LJ",
+      "flags": {},
+      "type": 0,
+      "text": "Reliquary containing a Sacred Relic",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1085,
+        1085
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xpYSeUZHcq3cHzmi",
+      "flags": {},
+      "type": 0,
+      "text": "Ruby",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1086,
+        1086
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eslKSWARMDjHsMFv",
+      "flags": {},
+      "type": 0,
+      "text": "Ruby (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1087,
+        1087
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cS4WwFen0MZiMuPw",
+      "flags": {},
+      "type": 0,
+      "text": "Ruby (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1088,
+        1088
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vT7aGmZp5hYiSjPy",
+      "flags": {},
+      "type": 0,
+      "text": "Ruby (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1089,
+        1089
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WAYHO2VY1azLWyeH",
+      "flags": {},
+      "type": 0,
+      "text": "Sacrificial Offering appropriate to deity",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1090,
+        1090
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Kd4scbP2y33JWR4A",
+      "flags": {},
+      "type": 0,
+      "text": "Sapphire",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1091,
+        1091
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0MneOT77YL5tezjb",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Bar, ornately carved",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1092,
+        1092
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mdsdLNGoI2xTJuOQ",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Cage, Tiny",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1093,
+        1093
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EOikne5P4WmsZluM",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Rod",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1094,
+        1094
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hMQmWPj6ia3HEjUK",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Whistle",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1095,
+        1095
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cIDw0DrIWCRo6Cg7",
+      "flags": {},
+      "type": 0,
+      "text": "Statue of the caster, carved from ivory and decorated with gems",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1096,
+        1096
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GFcnZue1HDZTiXLP",
+      "flags": {},
+      "type": 0,
+      "text": "Sunstone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1097,
+        1097
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uPO7OotnKnM77a3L",
+      "flags": {},
+      "type": 0,
+      "text": "Tentacle of giant octopus or giant squid",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1098,
+        1098
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cqYhcthD9mDNeRks",
+      "flags": {},
+      "type": 0,
+      "text": "Tiny Piece of Target Matter",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1099,
+        1099
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qT2Ebf6QO2q2tAtr",
+      "flags": {},
+      "type": 0,
+      "text": "Umber Hulk Blood",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1100,
+        1100
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lLI21glMnsaA9VKM",
+      "flags": {},
+      "type": 0,
+      "text": "Undead Eyeball, Encased in Gem",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1101,
+        1101
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lPSljQkm73qrvqwv",
+      "flags": {},
+      "type": 0,
+      "text": "Vessel to contain a Medium-sized creature",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1102,
+        1102
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TzjRZIdj1LhKEpbz",
+      "flags": {},
+      "type": 0,
+      "text": "Wire of fine silver",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1103,
+        1103
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tHfk45kcJDNiCWU4",
+      "flags": {},
+      "type": 0,
+      "text": "Item Distasteful to the Target",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1104,
+        1106
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "54OoLj1wY0hwLQ6k",
+      "flags": {},
+      "type": 0,
+      "text": "Adder's stomach",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1107,
+        1109
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Z7YWQShuSOHwA25A",
+      "flags": {},
+      "type": 0,
+      "text": "Agate",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1110,
+        1112
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "t6L0dIoBEhypEWSE",
+      "flags": {},
+      "type": 0,
+      "text": "Alum soaked in vinegar",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1113,
+        1115
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "h5ywV29MqNkJHLrL",
+      "flags": {},
+      "type": 0,
+      "text": "Amber, Glass, or Crystal Rod",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1116,
+        1118
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "a94xbuAmXQRiwN5H",
+      "flags": {},
+      "type": 0,
+      "text": "Amber, Glass, or Crystal Rod",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1119,
+        1121
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "B6hnD7gKj3iucJwV",
+      "flags": {},
+      "type": 0,
+      "text": "Ammunition",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1122,
+        1124
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PeoysIFjpsWlCtxw",
+      "flags": {},
+      "type": 0,
+      "text": "Ammunition",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1125,
+        1127
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "T81oatRkeZ6F2hfK",
+      "flags": {},
+      "type": 0,
+      "text": "Ammunition",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1128,
+        1130
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SrafZopZ5HGso0K8",
+      "flags": {},
+      "type": 0,
+      "text": "Black Onyx Stone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1131,
+        1133
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GjorKX34gSHYQIHF",
+      "flags": {},
+      "type": 0,
+      "text": "Black Pearl (as crushed powder)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1134,
+        1136
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "r7dwCBvUswIyCabm",
+      "flags": {},
+      "type": 0,
+      "text": "Bone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1137,
+        1139
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sXksKezvBoDDQtLZ",
+      "flags": {},
+      "type": 0,
+      "text": "Bone dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1140,
+        1142
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2v2i7ur4sXUtn6yk",
+      "flags": {},
+      "type": 0,
+      "text": "Bone, Broken",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1143,
+        1145
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0MvJdDXvRQxSayDF",
+      "flags": {},
+      "type": 0,
+      "text": "Brimstone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1146,
+        1148
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PG86yvasNOSQAAtW",
+      "flags": {},
+      "type": 0,
+      "text": "Brimstone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1149,
+        1151
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "f4nsxbJzM0gmhNK4",
+      "flags": {},
+      "type": 0,
+      "text": "Clay Model of a Ziggurat",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1152,
+        1154
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "n1i25luhO463avck",
+      "flags": {},
+      "type": 0,
+      "text": "Clay Pot of Brackish Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1155,
+        1157
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Qt0wtkTGXUWMOKQ0",
+      "flags": {},
+      "type": 0,
+      "text": "Copper Wire",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1158,
+        1160
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VP0kcClh2phbGZQ7",
+      "flags": {},
+      "type": 0,
+      "text": "Copper Wire",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1161,
+        1163
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0QQSDTvgjAzsVGZB",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal Bead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1164,
+        1166
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pLGpLOy27vr7tsQs",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal Hemisphere",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1167,
+        1169
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nkRMe3NvuacesImo",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal or Glass Cone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1170,
+        1172
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GqpXWlILw0a3wgkf",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal Sphere, small",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1173,
+        1175
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "L6mxcLZ5jWjxRy63",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal Vial of phosphorescent material",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1176,
+        1178
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dmOeCjmvRaVULO0m",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1179,
+        1181
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HU2x1eqgRIypucyc",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1182,
+        1184
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jhIVqngMHioRqqXA",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1185,
+        1187
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ckufIUdbNEbrOwaK",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1188,
+        1190
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pfPgqMhKpj1wFivX",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1191,
+        1193
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M06HEva2RGwHuqmQ",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1194,
+        1196
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FzdMKAXFtkPOGoGv",
+      "flags": {},
+      "type": 0,
+      "text": "Diamond (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1197,
+        1199
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YOz7QSEEfjGxVT78",
+      "flags": {},
+      "type": 0,
+      "text": "Diamonds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1200,
+        1202
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UXi6wQgGYNa2zD6t",
+      "flags": {},
+      "type": 0,
+      "text": "Distilled Spirits",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1203,
+        1205
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rdGLBHmlU3imJufK",
+      "flags": {},
+      "type": 0,
+      "text": "Divinatory Tools",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1206,
+        1208
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jLFvUv0ZEU3RofLx",
+      "flags": {},
+      "type": 0,
+      "text": "Earth, Wood, and Water mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1209,
+        1211
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ATYvDiEmEyPJ57SR",
+      "flags": {},
+      "type": 0,
+      "text": "Eyelash in gum arabic",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1212,
+        1214
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VZ9FlVbbOBxc6RkK",
+      "flags": {},
+      "type": 0,
+      "text": "Flesh",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1215,
+        1217
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dfKC0iVsFFy5IuRD",
+      "flags": {},
+      "type": 0,
+      "text": "Flesh, a cubic inch",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1218,
+        1220
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pKQszuua5t6NAUx7",
+      "flags": {},
+      "type": 0,
+      "text": "Gem or other ornamental container",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1221,
+        1223
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TBh1og3YDh6lzSkH",
+      "flags": {},
+      "type": 0,
+      "text": "Gem, as powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1224,
+        1226
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fHaK7CeaY8ajcNAX",
+      "flags": {},
+      "type": 0,
+      "text": "Glass Eye",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1227,
+        1229
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1biJOpjnrmVreRsR",
+      "flags": {},
+      "type": 0,
+      "text": "Glass or Crystal Bead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1230,
+        1232
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lDT0YfDAJ7dejX8j",
+      "flags": {},
+      "type": 0,
+      "text": "Golden Wire",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1233,
+        1235
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZSekxKXso1wHDHcR",
+      "flags": {},
+      "type": 0,
+      "text": "Granite",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1236,
+        1238
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Qjyvwt3HzIP88gF4",
+      "flags": {},
+      "type": 0,
+      "text": "Graveyard Dirt (just a pinch)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1239,
+        1241
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ynQAu9W0HEHUMZL4",
+      "flags": {},
+      "type": 0,
+      "text": "Gum Arabic",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1242,
+        1244
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "E8OPvhnLChaBRavm",
+      "flags": {},
+      "type": 0,
+      "text": "Gum Arabic Hemisphere",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1245,
+        1247
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "h8Cnn3WgWS0xLlch",
+      "flags": {},
+      "type": 0,
+      "text": "Hen's Heart",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1248,
+        1250
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FTpq834s6PnFuD1c",
+      "flags": {},
+      "type": 0,
+      "text": "Holly Berry",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1251,
+        1253
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7kKVYKFwI0rT52nz",
+      "flags": {},
+      "type": 0,
+      "text": "Holy Symbol",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1254,
+        1256
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zSI2iAZw9wEMaJXQ",
+      "flags": {},
+      "type": 0,
+      "text": "Holy Symbol",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1257,
+        1259
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NrKkgi3GJQYLh2la",
+      "flags": {},
+      "type": 0,
+      "text": "Holy Symbol",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1260,
+        1262
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zZMRgIhVqnFQhXfP",
+      "flags": {},
+      "type": 0,
+      "text": "Holy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1263,
+        1265
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "auQkGDVDsDaXnyGY",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1266,
+        1268
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PZedCXTpy4nur2gT",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1269,
+        1271
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zndnHDyvOC3oQCqB",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1272,
+        1274
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WYe8KutyTlRwrvlW",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1275,
+        1277
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JoUubaiawzsk2u4Z",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1278,
+        1280
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rCtYfmeU4RlfEfSf",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1281,
+        1283
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YKVkuNYX4OTlop4N",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1284,
+        1286
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MwB2nEDxzDIzBXEB",
+      "flags": {},
+      "type": 0,
+      "text": "Holy/Unholy Water",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1287,
+        1289
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sGbC1DF7G9xdm93m",
+      "flags": {},
+      "type": 0,
+      "text": "Honey drop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1290,
+        1292
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BhL7tvAdigkHPeYd",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1293,
+        1295
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ewwJmKNxTInCA1pV",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1296,
+        1298
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Kp5yivtXiqDz7rIz",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1299,
+        1301
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QGcgiYrZL5lNaVGw",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1302,
+        1304
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "c25d0AkmkWp2VWaR",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1305,
+        1307
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dAz248GufMCKjFDJ",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1308,
+        1310
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NFvZzyAjDOwpaF6d",
+      "flags": {},
+      "type": 0,
+      "text": "Incense",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1311,
+        1313
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GYHY3a7MKGEhoAxV",
+      "flags": {},
+      "type": 0,
+      "text": "Iron Blade",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1314,
+        1316
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RWA4i910MTsupPPk",
+      "flags": {},
+      "type": 0,
+      "text": "Jade Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1317,
+        1319
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UsEyMGbJB99qoZaN",
+      "flags": {},
+      "type": 0,
+      "text": "Jade Dust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1320,
+        1322
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YiDCrjAjkLAngaRS",
+      "flags": {},
+      "type": 0,
+      "text": "Jeweled Horn",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1323,
+        1325
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rz5a3ZGLw7PP2HqG",
+      "flags": {},
+      "type": 0,
+      "text": "Magnifying Glass",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1326,
+        1328
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zkjSLFPldsNrI0M1",
+      "flags": {},
+      "type": 0,
+      "text": "Marked Sticks or Bones",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1329,
+        1331
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oM5ZK2dQ9D8jLlKS",
+      "flags": {},
+      "type": 0,
+      "text": "Melee Weapon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1332,
+        1334
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RHIIwshTdzQB7x8E",
+      "flags": {},
+      "type": 0,
+      "text": "Mercury",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1335,
+        1337
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SLOKsh9bTAH5nOA9",
+      "flags": {},
+      "type": 0,
+      "text": "Mercury",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1338,
+        1340
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0wo3D337UeUS44cH",
+      "flags": {},
+      "type": 0,
+      "text": "Mercury",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1341,
+        1343
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kry47CH2lgudRCxA",
+      "flags": {},
+      "type": 0,
+      "text": "Mercury",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1344,
+        1346
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JsWl7V40jOQokocT",
+      "flags": {},
+      "type": 0,
+      "text": "Mica chip",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1347,
+        1349
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Z5s7bteGqBPKD6Bz",
+      "flags": {},
+      "type": 0,
+      "text": "Miniature Hand Sculpted from Clay",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1350,
+        1352
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EXDzAAacccqGXIi3",
+      "flags": {},
+      "type": 0,
+      "text": "Mistletoe",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1353,
+        1355
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CuHITJIprwFyiP4E",
+      "flags": {},
+      "type": 0,
+      "text": "Molasses (a drop)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1356,
+        1358
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QKtIgNHEZK6votA7",
+      "flags": {},
+      "type": 0,
+      "text": "Moonseeds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1359,
+        1361
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4mBZTTGjrsNdi5LH",
+      "flags": {},
+      "type": 0,
+      "text": "Niter, Sulfur, and Pine Tar formed into a bead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1362,
+        1364
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MSmZib4MG2ZLorSY",
+      "flags": {},
+      "type": 0,
+      "text": "Obsidian",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1365,
+        1367
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fOXgjxWOspCxAWgb",
+      "flags": {},
+      "type": 0,
+      "text": "Oil",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1368,
+        1370
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IsIqWNKt7s3MJDd0",
+      "flags": {},
+      "type": 0,
+      "text": "Ointment for the Eyes",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1371,
+        1373
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JRQQxrCLt2DOudha",
+      "flags": {},
+      "type": 0,
+      "text": "Opaque Glass",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1374,
+        1376
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3iPmZRFhiHQwib84",
+      "flags": {},
+      "type": 0,
+      "text": "Parchment, as a twisted loop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1377,
+        1379
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ew5srqVetVAcHQMr",
+      "flags": {},
+      "type": 0,
+      "text": "Parchment, with holy word written upon it",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1380,
+        1382
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "X1Qsut7HhqxHgcHV",
+      "flags": {},
+      "type": 0,
+      "text": "Pearl",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1383,
+        1385
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5Za6mekIUiXApWQE",
+      "flags": {},
+      "type": 0,
+      "text": "Petrified Eye of Newt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1386,
+        1388
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OtFVYcFDVMSg3FnN",
+      "flags": {},
+      "type": 0,
+      "text": "Pickled Octopus Tentacle",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1389,
+        1391
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "23QJpkLD0bjEvbGr",
+      "flags": {},
+      "type": 0,
+      "text": "Pitch, a drop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1392,
+        1394
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xRQjc7l1k1JBkWfV",
+      "flags": {},
+      "type": 0,
+      "text": "Pitch, a drop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1395,
+        1397
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vyvj85C6pdCUFWjh",
+      "flags": {},
+      "type": 0,
+      "text": "Platinum Rings, two",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1398,
+        1400
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "yX7Po0KULEXgeFDC",
+      "flags": {},
+      "type": 0,
+      "text": "Polished Marble Stone",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1401,
+        1403
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8du060I2ZkYJI216",
+      "flags": {},
+      "type": 0,
+      "text": "Prayer Wheel",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1404,
+        1406
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CR69ll4nm1Tijm5j",
+      "flags": {},
+      "type": 0,
+      "text": "Quill plucked from a sleeping bird",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1407,
+        1409
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9WnspUZdiTAdLDo1",
+      "flags": {},
+      "type": 0,
+      "text": "Quiver, with at least one piece of ammunition",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1410,
+        1412
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "yQ4qjaUIXLE8kdLe",
+      "flags": {},
+      "type": 0,
+      "text": "Rope, 25 feet",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1413,
+        1415
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KCIpESLqw4o4d4SO",
+      "flags": {},
+      "type": 0,
+      "text": "Ruby (as dust)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1416,
+        1418
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gasn8MOUy9i7eX9h",
+      "flags": {},
+      "type": 0,
+      "text": "Sesame Seeds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1419,
+        1421
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "snnKRAfZvitxwIig",
+      "flags": {},
+      "type": 0,
+      "text": "Silk Square",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1422,
+        1424
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1TFdCiBHmaDSt3qa",
+      "flags": {},
+      "type": 0,
+      "text": "Silver and Iron, powdered mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1425,
+        1427
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3xbI8d3O4XGxpXUt",
+      "flags": {},
+      "type": 0,
+      "text": "Silver and Iron, powdered mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1428,
+        1430
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "clcxe6lZ7YFaf746",
+      "flags": {},
+      "type": 0,
+      "text": "Silver and Iron, powdered mixture",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1431,
+        1433
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VVHOxFjxhLz1MNFY",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Mirror, small",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1434,
+        1436
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8LWik0kkpKWhwqen",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Pins (",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1437,
+        1439
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ht2BImYqbF2fmA45",
+      "flags": {},
+      "type": 0,
+      "text": "Silver powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1440,
+        1442
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uWiOMnb9uGyg3fFm",
+      "flags": {},
+      "type": 0,
+      "text": "Silver powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1443,
+        1445
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZML4dtLIcEOrtMAN",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Rings, as a linked pair",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1446,
+        1448
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hDeFSLkEW0ZitaPU",
+      "flags": {},
+      "type": 0,
+      "text": "Silver Spoon, tiny",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1449,
+        1451
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JAUSYWsuvO1xQcez",
+      "flags": {},
+      "type": 0,
+      "text": "Snakeskin glove",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1452,
+        1454
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vYtXDDCqQAaqJxOU",
+      "flags": {},
+      "type": 0,
+      "text": "Snow, enough to make a life-size copy of the target creature",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1455,
+        1457
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MZIzr2MX1FGDawWB",
+      "flags": {},
+      "type": 0,
+      "text": "Spheres of glass, crystal, or mineral",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1458,
+        1460
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ku9ilCW8O29skDUb",
+      "flags": {},
+      "type": 0,
+      "text": "Sponge",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1461,
+        1463
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5ozsL4qIGMDcBdIK",
+      "flags": {},
+      "type": 0,
+      "text": "Sumac Leaf",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1464,
+        1466
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tETVW6D0Q3kRRdmu",
+      "flags": {},
+      "type": 0,
+      "text": "Sunburst Pendant",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1467,
+        1469
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nf2pJrlMJhnXaq3B",
+      "flags": {},
+      "type": 0,
+      "text": "Sweet Oil, a drop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1470,
+        1472
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DwpPooNzeeyjvPQP",
+      "flags": {},
+      "type": 0,
+      "text": "Sweet Oil, a drop",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1473,
+        1475
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "e9xjZe9c6t3pQ5Pf",
+      "flags": {},
+      "type": 0,
+      "text": "Talcum powder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1476,
+        1478
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1Mwt2PlBp2reKuyo",
+      "flags": {},
+      "type": 0,
+      "text": "Tallow",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1479,
+        1481
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9sNKF62UxssOqXHY",
+      "flags": {},
+      "type": 0,
+      "text": "Tarts",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1482,
+        1484
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xKCNNhyPrYfuF8PA",
+      "flags": {},
+      "type": 0,
+      "text": "Twig from a tree that has been struck by lightning",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1485,
+        1487
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "43wIm4hjl2dClGpj",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1488,
+        1490
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gFfvck5nBZB8laYy",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1491,
+        1493
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WnSrA6CsEUwirmnZ",
+      "flags": {},
+      "type": 0,
+      "text": "Wisp of Smoke",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1494,
+        1496
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DSgxk7z2txXJDrGl",
+      "flags": {},
+      "type": 0,
+      "text": "Wisp of Smoke",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        1497,
+        1499
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YfiKmDQ8ioikzYLk",
+      "flags": {},
+      "type": 0,
+      "text": "Twig",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        1500,
+        1505
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d1505",
+  "replacement": true,
+  "displayRoll": true
+}

@@ -1,0 +1,1420 @@
+{
+  "_id": "Hsfj5v8Uts8x2ikd",
+  "name": "Hjolmin Spirits",
+  "sort": 100000,
+  "flags": {
+    "exportSource": {
+      "world": "rrinnoroth",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.2"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "For when Hjolmin gets spicy",
+  "results": [
+    {
+      "_id": "6e91wvce7vDQWN1S",
+      "flags": {},
+      "type": 0,
+      "text": "Fira: Female Gnome Fighter, Evil. Fira has silver hair and soft amber eyes, and an unusual mark on her neck. She wears banded mail and wields a short sword and long bow. Fira seeks revenge against the kingdom which exiled her.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0E1TY6hJsjS3yaUI",
+      "flags": {},
+      "type": 0,
+      "text": "Wynna: Female Human Necromancer, Evil. Wynna is haughty in bearing, with blonde hair and gray eyes. She wears well-made clothing and wields a club. Wynna seeks revenge against the sister who betrayed her.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2dcSZH28RjAAaBSX",
+      "flags": {},
+      "type": 0,
+      "text": "Elelron: Male Elf Professional, Evil. Elelron has cropped red hair and amber eyes. He wears fine clothing and carries a fine stiletto. Elelron seeks to atone for past sins.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9jwou37G6Oz0XasH",
+      "flags": {},
+      "type": 0,
+      "text": "Thalindar: Male Dwarf Assassin, Evil. Greri is short, with auburn hair and soft hazel eyes. He wears leather armor and wields a dagger and sling.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DhOcTtAfMHhp9wpX",
+      "flags": {},
+      "type": 0,
+      "text": "Eadrien: Female Elf Wizard, Evil. Eadrien has curly copper hair and light green eyes. She wears expensive clothing and wields a quarterstaff. Eadrien is fanatical and coarse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RZxYKI24gwReCU19",
+      "flags": {},
+      "type": 0,
+      "text": "Tuinne: Male Tiefling Fighter, Good. Tuinne has a round face, with gray hair and sharp gray eyes. He wears chain mail and wields a military fork. Tuinne is faithful and practical.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Z3y1T5wnRGqgg4u0",
+      "flags": {},
+      "type": 0,
+      "text": "AlfeKunnidotr: Female Dwarf Teacher. Good. Alfeif has cropped copper hair and gray eyes, and large ears. She wears tailored clothing and several pouches hang from her belt. Alfeif is searching for her lost brother.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "E657PiGulzrvTbYN",
+      "flags": {},
+      "type": 0,
+      "text": "Loby: Female Halfling Scofflaw, Evil. Loby has black hair and light blue eyes. She wears worn clothing and an iron amulet. Loby seeks revenge against the kingdom which exiled her.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0sgsreKSRdfQ23Vn",
+      "flags": {},
+      "type": 0,
+      "text": "Eambed: Male Human Cleric, Neutral. Eambed has a square face, with matted brown hair and light green eyes. He wears chain mail and wields a club. Eambed is a pack-rat, and carries a satchel of random junk.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ki3KyTZHgd7RSUgm",
+      "flags": {},
+      "type": 0,
+      "text": "Cave: Male Orc Fighter, Good. Cave is fey in appearance, with uneven blonde hair and gray eyes. He wears chain mail and wields a two-handed sword. Cave has an animal companion, a gray wolf named Alanis.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "th0vG8nRhjbGPmvr",
+      "flags": {},
+      "type": 0,
+      "text": "Goffi: Male Dwarf Thief, Evil. Goffi is fair in appearance, with auburn hair and dark gray eyes. He wears leather armor and wields a short sword and sling. Goffi is savage and abrasive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Vd4pefsKeBYBy89d",
+      "flags": {},
+      "type": 0,
+      "text": "Bakri: Male Dwarf Merchant, Good. Bakri has a square face, with straight blonde hair and light hazel eyes. He wears modest garments and carries an ash staff. Bakri has an animal companion, a ginger cat named Dwoinan.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PWANe6NnTQjAxjUk",
+      "flags": {},
+      "type": 0,
+      "text": "Rinarv: Female Dwarf Fighter, Neutral. Rinarv is stout, with curly red hair and amber eyes. She wears banded mail and wields a ranseur. Rinarv has an animal companion, a brown bear named Ingerdg.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pGqi4IP4N2cpJyND",
+      "flags": {},
+      "type": 0,
+      "text": "Ugmad: Female Dwarf Druid, Neutral. Ugmad has blonde hair and sharp blue eyes, and small ears. She wears leather armor and wields a club and dagger. Ugmad is paranoid and immoral.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cVrEVmUKl4jc3kd5",
+      "flags": {},
+      "type": 0,
+      "text": "Thatur: Male Dwarf Thief, Neutral. Thatur is pleasant in appearance, with straight blonde hair and light hazel eyes. He wears leather armor and wields a long sword and dagger. Thatur is searching for the legendary Secret Gauntlet of Madness.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qoMYJ3Yg7I19gdkI",
+      "flags": {},
+      "type": 0,
+      "text": "Bali: Male Dwarf Thief, Good. Bali has copper hair and light gray eyes. He wears leather armor and wields a dagger. Bali is courteous and thrifty.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "L2j8TPffQnTAuszu",
+      "flags": {},
+      "type": 0,
+      "text": "Ukhlat: Male Dwarf Wizard, Neutral. Ukhlat has a long face, with blonde hair and soft brown eyes. He wears simple clothing and wields a quarterstaff and dagger. Ukhlat has an arcane familiar, a tiny fire elemental named Ukral.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9uM6OCjPBxauo2nT",
+      "flags": {},
+      "type": 0,
+      "text": "Nanain: Male Dwarf Craftsman, Neutral. Nanain is pleasant in appearance, with braided gray hair and narrow hazel eyes. He wears modest garments and a green cloak. Nanain has an animal companion, a black cat named Uddag.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KSfo3n0QHHcEOtRW",
+      "flags": {},
+      "type": 0,
+      "text": "Gimli: Male Dwarf Fighter, Neutral. Gimli has white hair and gray eyes, and a thin moustache. He wears splint mail and wields a bardiche. Gimli believes that he cannot be forgiven for his actions.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lllTMJr9jtQs8SkW",
+      "flags": {},
+      "type": 0,
+      "text": "Nanain: Female Dwarf Wizard, Neutral. Nanain has a long face, with blonde hair and green eyes. She wears black robes and wields a quarterstaff. Nanain has an arcane familiar, a floating lantern which pulses with light as it speaks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3JIYaV1fteCTB33d",
+      "flags": {},
+      "type": 0,
+      "text": "Banarv: Male Dwarf Fighter, Good. Banarv has cropped black hair and hazel eyes. He wears banded mail and wields a bardiche. Banarv seeks to discover the truth of his lineage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QeWm6XYd1M5tPTQU",
+      "flags": {},
+      "type": 0,
+      "text": "Tharkad: Female Dwarf Professional, Evil. Tharkad has a square face, with auburn hair and light green eyes. She wears tailored clothing and a silver holy symbol. Tharkad has an animal companion, a black rat named Arun.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0CFzkbaq4KE0Y77r",
+      "flags": {},
+      "type": 0,
+      "text": "Ingerdg: Female Dwarf Necromancer, Evil. Ingerdg has curly red hair and dark gray eyes, and pointed ears. She wears well-made clothing and wields a long sword. Ingerdg is harsh and perverted.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mH2B2uN4IIP8UIga",
+      "flags": {},
+      "type": 0,
+      "text": "Osvik: Male Dwarf Craftsman, Neutral. Osvik is short and stout, with matted copper hair and hazel eyes. He wears simple clothing and riding boots. Osvik is hunting the brigands who murdered his family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KKC0xhsMiZz2sckE",
+      "flags": {},
+      "type": 0,
+      "text": "Sorri: Male Orc Druid, Neutral. Sorri is tall, with cropped copper hair and green eyes. He wears leather armor and wields a quarterstaff and sling. Sorri is searching for his missing daughter.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DcS6dQi3enj06mr0",
+      "flags": {},
+      "type": 0,
+      "text": "Threri: Female Orc Ranger, Evil. Threri has thick white hair and hazel eyes, and a thin nose. She wears leather armor and wields a battle axe and short bow. Threri has red snake named Bori.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YpZoQmSCSwZMMVHk",
+      "flags": {},
+      "type": 0,
+      "text": "Thyre: Female Orc Scofflaw, Good. Thyre is tall, with gray hair and large green eyes. She wears worn clothing and riding boots. Thyre feels like she's never accomplished anything worth memory.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UbZJlL3unWBnS8ep",
+      "flags": {},
+      "type": 0,
+      "text": "Stire Kuldreson: Male Dwarf Servant, Neutral. Stire is rugged in appearance, with red hair and amber eyes. He wears sturdy clothing and several small tools hang from his belt. Stire seeks to free himself from an ancient curse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wfgRcF863NKafQ7J",
+      "flags": {},
+      "type": 0,
+      "text": "Thratelch: Male Dwarf Fighter, Good. Thratelch is slender, with gray hair and light amber eyes. He wears chain mail and wields a long sword and shield. Thratelch is virtuous and diplomatic.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TUYhBrFWOvYF3UPS",
+      "flags": {},
+      "type": 0,
+      "text": "Telchat: Male Dwarf Professional, Good. Telchat is elegant in appearance, with straight brown hair and brown eyes. He wears fine clothing and several pouches hang from his belt.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xm2Y979GxqBkay11",
+      "flags": {},
+      "type": 0,
+      "text": "Enbald: Male Human Cleric, Good. Enbald has cropped golden hair and brown eyes, and pointed ears. He wears splint mail and wields a hammer. Enbald has an animal companion, a ginger ferret named Ament.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FvExEHmhJq5UtdEh",
+      "flags": {},
+      "type": 0,
+      "text": "Berny: Male Halfling Scofflaw, Good. Berny has a round face, with thin black hair and hazel eyes. He wears travel-stained clothing and a wooden holy symbol. Berny is searching for his lost brother.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wkOhOlunLW1J8bWw",
+      "flags": {},
+      "type": 0,
+      "text": "Gilmithrie: Female Elf Illusionist, Evil. Gilmithrie is tall, with red hair and soft blue eyes. She wears plain clothing and wields a quarterstaff and dagger.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CvF48sbhCcqqjPGL",
+      "flags": {},
+      "type": 0,
+      "text": "Refne Ilbjofndotr: Female Dwarf Druid, Neutral. Refne is short, with straight red hair and sharp amber eyes. She wears leather armor and wields a hammer and darts. Refne seeks to free herself from an ancient curse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iYeXdu53rVs1c2yT",
+      "flags": {},
+      "type": 0,
+      "text": "Wene Haucey: Female Human Fighter, Neutral. Wene has silver hair and blue eyes. She wears chain mail and wields a bastard sword. Wene suffers severe post traumatic stress.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eSL5V85nxvZWzJ13",
+      "flags": {},
+      "type": 0,
+      "text": "Kater: Female Halfling Assassin, Good. Kater has uneven golden hair and bright hazel eyes, and wears glasses with electrum rims. She wears leather armor and wields a dagger and sling.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QVuQhjsihBeUWBO3",
+      "flags": {},
+      "type": 0,
+      "text": "Wuthiue: Female Human Soldier, Evil. Wuthiue has gray hair and soft amber eyes. She wears studded leather and wields a short sword and long bow. Wuthiue has an animal companion, a hunting dog named Sane.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7bBYD62Ww7nmYf7L",
+      "flags": {},
+      "type": 0,
+      "text": "Thethe Suertidotr: Female Dwarf Assassin, Neutral. Thethe is exceptionally beautiful, with blonde hair and blue eyes. She wears leather armor and wields a club.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1S0TsvYUEylUNHZV",
+      "flags": {},
+      "type": 0,
+      "text": "Hildo Cottunn: Male Gnome Mercenary, Evil. Hildo is repulsive in appearance, with short red hair and narrow brown eyes. He wears leather armor and wields a mace and long bow. Hildo is haughty and bloodthirsty.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mw7jq7ImI7uJFP4x",
+      "flags": {},
+      "type": 0,
+      "text": "Phelia: Female Human Soldier, Good. Phelia has a square face, with auburn hair and dark amber eyes. She wears leather armor and wields a mace and javelins. Phelia lost her reflection to a hag.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WoGIdLNKMBmn2KZv",
+      "flags": {},
+      "type": 0,
+      "text": "Odgeid: Male Dwarf Druid, Neutral. Odgeid has a long face, with thin blonde hair and brown eyes. He wears leather armor and wields a hammer and sling. Odgeid has hawk named Skiolde.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zgfvC8LOathWgyG7",
+      "flags": {},
+      "type": 0,
+      "text": "Ferdo Gamge: Male Orc Entertainer, Good. Ferdo has a narrow face, with silver hair and soft gray eyes. He wears expensive clothing and an amulet of luminous crystal. Ferdo is confident and impartial.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ysQM5FMJDtOMgSpX",
+      "flags": {},
+      "type": 0,
+      "text": "Priela Diggle: Female Halfling Peasant, Neutral. Priela has short brown hair and light amber eyes. She wears modest garments and a wide-brimmed hat.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hKHRA6iSs0gqdFqC",
+      "flags": {},
+      "type": 0,
+      "text": "Cyne: Male Human Scofflaw, Neutral. Cyne has a narrow face, with straight blonde hair and soft gray eyes. He wears worn clothing and several small tools hang from his belt. Cyne is quiet, and says as little as possible.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9SGtkGfpstPA94lW",
+      "flags": {},
+      "type": 0,
+      "text": "Galothien: Female Elf Aristocrat, Good. Galothien has a long face, with short golden hair and narrow hazel eyes. She wears fine raiment and jewelry. Galothien is generous and gentle.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OtSXDiwwDDMPZ03c",
+      "flags": {},
+      "type": 0,
+      "text": "Arral: Female Dwarf Servant, Evil. Arral is short and stout, with auburn hair and hazel eyes. She wears well-made clothing and a bronze amulet. Arral is haunted by the ghost of someone she killed.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OluCW4spYCVfGjQd",
+      "flags": {},
+      "type": 0,
+      "text": "Raffolk Pere: Male Human Fighter, Neutral. Raffolk is rugged in appearance, with thick silver hair and brown eyes. He wears splint mail and wields Riverspear, a mythical longbow said to have once belonged to a forgotten god of war. Raffolk is searching for his lost sister.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QOExEyKoBQOkWnjO",
+      "flags": {},
+      "type": 0,
+      "text": "Care: Male Tiefling Scholar, Evil. Care is tall and heavyset, with gray hair and amber eyes. He wears tailored clothing and a copper amulet. Care seeks to save his family from financial ruin.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xFgNzl191hTrcCLI",
+      "flags": {},
+      "type": 0,
+      "text": "Mara: Female Human Craftsman, Evil. Mara is rough in appearance, with black hair and amber eyes. She wears well-made clothing and a pewter amulet.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ym0QmVEl3O635TVO",
+      "flags": {},
+      "type": 0,
+      "text": "Thorlja: Female Dwarf Aristocrat, Evil. Thorlja has an angular face, with blonde hair and dark gray eyes. She wears fine raiment and jewelry. Thorlja is secretive and crude.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pgtDi90UsBGBaQWV",
+      "flags": {},
+      "type": 0,
+      "text": "Fraga: Female Orc Professional, Good. Fraga has copper hair and narrow blue eyes, and a thin nose. She wears well-made clothing and several pouches hang from her belt. Fraga seeks only fame and glory.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NwgwJ2QIFza4OtrQ",
+      "flags": {},
+      "type": 0,
+      "text": "Dori: Male Dwarf Professional, Evil. Dori is pleasant in appearance, with black hair and green eyes. He wears modest garments and carries a fine stiletto. Dori is haunted by the memories of a past life.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xxDRSzUgn6jXt3YA",
+      "flags": {},
+      "type": 0,
+      "text": "Wynna: Female Human Fighter, Neutral. Wynna has curly copper hair and brown eyes, and large ears. She wears splint mail and wields a military fork.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pnEgBAFLo5rDRmna",
+      "flags": {},
+      "type": 0,
+      "text": "Landa: Female Halfling Fighter, Neutral. Landa is exceptionally beautiful, with black hair and dark blue eyes. She wears banded mail and wields a warhammer and shield. Landa is practical and dishonest.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "v93GKUGixP4cnXPb",
+      "flags": {},
+      "type": 0,
+      "text": "Piersym: Male Human Druid, Neutral. Piersym is tall and thin, with tangled white hair and gray eyes. He wears leather armor and wields a scimitar and darts. Piersym is searching for the lost elven kingdom",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ElYzrAjmbBC4iQ9V",
+      "flags": {},
+      "type": 0,
+      "text": "Rancent: Male Human Fighter, Good. Rancent has silver hair and blue eyes, and large ears. He wears splint mail and wields a flail. Rancent is searching for a legendary blade named Fiendblade.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gSwSZpIfr5moEWn7",
+      "flags": {},
+      "type": 0,
+      "text": "Celure: Male Elf Illusionist, Evil. Celure has silver hair and brown eyes, and pointed ears. He wears bronze robes and wields a dagger. Celure seeks to atone for past sins.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "589dQabZyckUcIa5",
+      "flags": {},
+      "type": 0,
+      "text": "Galador: Male Tiefling Paladin, Good. Galador has an angular face, with messy brown hair and brown eyes. He wears plate mail and wields a glaive-guisarme. Galador is hunting the giant who murdered his family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0Ff6ZEOZuFLS0n1Y",
+      "flags": {},
+      "type": 0,
+      "text": "Eldarien: Female Tiefling Peasant, Good. Eldarien is cultured in appearance, with red hair and bright blue eyes. She wears sturdy clothing and several small tools hang from her belt. Eldarien compulsively insults others.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "y9q34r1QxxjrdWrw",
+      "flags": {},
+      "type": 0,
+      "text": "Peona Galbolg: Female Gnome Fighter, Neutral. Peona is rough in appearance, with auburn hair and large brown eyes. She wears splint mail and wields a short sword. Peona is agreeable and fiendish.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "11J3WkonkZSndNE1",
+      "flags": {},
+      "type": 0,
+      "text": "Crickin: Male Gnome Scholar, Good. Crickin is common in appearance, with uneven blonde hair and soft blue eyes. He wears expensive clothing and a silver holy symbol. Crickin suffers a traumatic fear of fire.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QXQ9jvtsOe9bkCoH",
+      "flags": {},
+      "type": 0,
+      "text": "Kadu: Female Dwarf Alchemist, Neutral. Kadu has matted blonde hair and gray eyes, and large ears. She wears expensive clothing and a feathered hat. Kadu was petrified for a hundred years.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "s1pBjHGhBWW0hdZT",
+      "flags": {},
+      "type": 0,
+      "text": "Arwelel: Female Elf Necromancer, Evil. Arwelel is exceptionally beautiful, with tangled auburn hair and blue eyes. She wears dark robes and wields a long sword and dagger. Arwelel seeks to raise an army of flesh golems.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "n1ctHc1LfpjlKwKn",
+      "flags": {},
+      "type": 0,
+      "text": "Amin: Male Dwarf Thief, Good. Amin has uneven blonde hair and light amber eyes. He wears leather armor and wields a short sword. Amin has dire rat named Bothe.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2YfCfEYVPkUs0rUq",
+      "flags": {},
+      "type": 0,
+      "text": "Elion: Male Elf Thief, Good. Elion is thin, with uneven white hair and dark green eyes. He wears leather armor and wields a long sword and dagger. Elion is idealistic and cultured.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "unAlrGtkSDQTK85k",
+      "flags": {},
+      "type": 0,
+      "text": "Alhheth: Male Human Artist, Neutral. Alhheth has a round face, with brown hair and dark green eyes. He wears well-made clothing and silk gloves. Alhheth has an animal companion, a copper firedrake named Epher.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aQwDF8aSxNtSQwOp",
+      "flags": {},
+      "type": 0,
+      "text": "Gisme Tonell: Male Halfling Soldier, Good. Gisme is elegant in appearance, with brown hair and large green eyes. He wears studded leather and wields a military pick and shield. Gisme has an animal companion, a green firedrake named Ellian.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DHwV8bINLezcTMYi",
+      "flags": {},
+      "type": 0,
+      "text": "Mose: Female Tiefling Illusionist, Neutral. Mose is exceptionally beautiful, with copper hair and large gray eyes. She wears modest garments and wields a quarterstaff and dagger. Mose seeks to raise an army of stone golems.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1cZ2gr5nToHV0uLw",
+      "flags": {},
+      "type": 0,
+      "text": "Wilad: Male Gnome Mercenary, Evil. Wilad has an angular face, with white hair and large gray eyes. He wears leather armor and wields a warhammer and light crossbow.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "H2yfC0LM2EHxetFx",
+      "flags": {},
+      "type": 0,
+      "text": "Theli: Female Gnome Fighter, Good. Theli has white hair and narrow green eyes, and prominent ears. She wears banded mail and wields a ranseur. Theli seeks to discover the truth of her family's downfall",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zlynjnrKkTMHFSyZ",
+      "flags": {},
+      "type": 0,
+      "text": "Theidra: Female Tiefling Paladin, Good. Theidra is tall, with red hair and gray eyes. She wears chain mail and wields a bastard sword and shield. Theidra is absent-minded, and always searching for a missing item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "avA5tc7SU8dT6VuA",
+      "flags": {},
+      "type": 0,
+      "text": "Kali: Female Dwarf Soldier, Good. Kali is tall and overweight, with straight gray hair and green eyes. She wears scale mail and wields a ranseur. Kali is quiet, and says as little as possible.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "exh0alPZ514O1jNJ",
+      "flags": {},
+      "type": 0,
+      "text": "Thelry Wreney: Male Elf Cleric, Good. Thelry has a long face, with straight white hair and sharp hazel eyes. He wears plate mail and wields a club. Thelry is hunting the fiend which destroyed his homeland.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YhRiiHFA7SHFFzoc",
+      "flags": {},
+      "type": 0,
+      "text": "Finaeli: Male Gnome Artist, Good. Finaeli has a narrow face, with thick white hair and bright brown eyes. He wears modest garments and a silver holy symbol. Finaeli is a practiced juggler.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mhm6c3Kok23yaAot",
+      "flags": {},
+      "type": 0,
+      "text": "Dalla: Female Halfling Fighter, Evil. Dalla has white hair and hazel eyes, and a magical mark on her neck. She wears chain mail and wields a mace and javelins. Dalla is impossibly lucky.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "apO4bNYQxy6vpvbH",
+      "flags": {},
+      "type": 0,
+      "text": "Cata: Male Elf Druid, Neutral. Cata has a narrow face, with copper hair and bright brown eyes. He wears leather armor and wields a quarterstaff. Cata is paranoid and clever.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jkteUGdAOS0lfzCA",
+      "flags": {},
+      "type": 0,
+      "text": "Gimli: Male Dwarf Entertainer, Neutral. Gimli is rugged in appearance, with long auburn hair and brown eyes. He wears expensive clothing and a sable fur cape. Gimli is cursed with a deformed leg.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "G39QqE96w2lgb6fj",
+      "flags": {},
+      "type": 0,
+      "text": "Tolme: Male Halfling Peasant, Evil. Tolme is tall, with tangled auburn hair and green eyes. He wears plain clothing and riding boots. Tolme is searching for his missing son.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mD2iZe2dFkzwEr9u",
+      "flags": {},
+      "type": 0,
+      "text": "Gauwyn: Male Human Fighter, Evil. Gauwyn has a narrow face, with copper hair and dark blue eyes. He wears plate mail and wields a battle axe and javelins. Gauwyn seeks to become a knight of the realm.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Qq9dMsKsdIKMPQJR",
+      "flags": {},
+      "type": 0,
+      "text": "Lesym: Male Human Scholar, Evil. Lesym has uneven auburn hair and blue eyes, and a magical tattoo on his arm. He wears modest garments and a feathered hat. Lesym is wrongly sought by the paladins of the Fane of the Sublime Lords for heresy.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NLakHQU5cn4K33iT",
+      "flags": {},
+      "type": 0,
+      "text": "Gythe: Female Orc Ranger, Evil. Gythe has copper hair and brown eyes. She wears leather armor and wields a bastard sword and light crossbow. Gythe is stubborn and immoral.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bfjxZwSdGeHFVfkj",
+      "flags": {},
+      "type": 0,
+      "text": "Echur: Female Tiefling Aristocrat, Evil. Echur has straight gray hair and large blue eyes. She wears fine raiment and a sling of vials and potions. Echur is quiet, and says as little as possible.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HG45AvROMd5phLVe",
+      "flags": {},
+      "type": 0,
+      "text": "Nainarv: Female Dwarf Craftsman, Evil. Nainarv is exceptionally beautiful, with brown hair and light blue eyes. She wears modest garments and carries a long knife. Nainarv dislikes anyone smaller than her.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nurn0jHADHccfaVT",
+      "flags": {},
+      "type": 0,
+      "text": "Ibrast Growich: Male Halfling Assassin, Neutral. Ibrast has matted copper hair and large blue eyes, and a curly moustache. He wears leather armor and wields a long sword and sling. Ibrast seeks to discover who murdered his family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VXYBTBOyy71g0CVq",
+      "flags": {},
+      "type": 0,
+      "text": "Oror: Male Elf Druid, Neutral. Oror has messy copper hair and dark amber eyes. He wears leather armor and wields a spear. Oror has badger named Elenwel.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bkVLND5rkBsGRmQI",
+      "flags": {},
+      "type": 0,
+      "text": "Nerde: Female Elf Peasant, Evil. Nerde has thick blonde hair and blue eyes, and large ears. She wears sturdy clothing and riding boots. Nerde is scheming and envious.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iLDCXgmlODIfkfoR",
+      "flags": {},
+      "type": 0,
+      "text": "Mose: Female Halfling Wizard, Neutral. Mose is willowy, with thick white hair and sharp brown eyes. She wears well-made clothing and wields a quarterstaff and dagger. Mose suffers a traumatic fear of heights.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lndMcJ0gFcumdzAM",
+      "flags": {},
+      "type": 0,
+      "text": "Deda: Male Dwarf Alchemist, Evil. Deda is common in appearance, with tangled gray hair and gray eyes. He wears well-made clothing and a fox fur cape. Deda is hunting the warlord who murdered his family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KqjEzFkclkRe0Rzq",
+      "flags": {},
+      "type": 0,
+      "text": "Indel: Female Elf Priest, Neutral. Indel has short copper hair and hazel eyes. She wears plain clothing and a pewter amulet. Indel is pessimistic and amoral.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y88qHyibxpHQubIP",
+      "flags": {},
+      "type": 0,
+      "text": "Cyne: Male Human Fighter, Evil. Cyne has a long face, with copper hair and bright blue eyes. He wears plate mail and wields a glaive-guisarme. Cyne is hunting the brigands who murdered his family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GKueI5YILEHT7s8N",
+      "flags": {},
+      "type": 0,
+      "text": "Gauwill Mynge: Male Human Illusionist, Evil. Gauwill has a long face, with copper hair and gray eyes. He wears modest garments and wields a quarterstaff and sling. Gauwill is mercenary and craven.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Jem7geyusnK8w0qd",
+      "flags": {},
+      "type": 0,
+      "text": "Horgi: Male Orc Professional, Good. Horgi has tangled gray hair and brown eyes. He wears fine clothing and carries a fine stiletto. Horgi seeks to continue the noble legacy of his father.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CY8Bo2gkVtBfAt4O",
+      "flags": {},
+      "type": 0,
+      "text": "Dwoinain: Female Orc Paladin, Good. Dwoinain has a narrow face, with black hair and soft hazel eyes. She wears plate mail and wields a bardiche.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nl8BNQPB82H9xXR6",
+      "flags": {},
+      "type": 0,
+      "text": "Pervy Gerop: Female Halfling Priest, Good. Pervy is cultured in appearance, with tangled silver hair and sharp blue eyes. She wears fine clothing and a leopard fur cape. Pervy seeks to free herself from an ancient curse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SMZOlX02oeSme7Af",
+      "flags": {},
+      "type": 0,
+      "text": "Abell: Female Gnome Illusionist, Neutral. Abell has uneven silver hair and amber eyes. She wears gray robes and wields a quarterstaff and dagger. Abell is fascinated by death.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JWx5EiGeuJmduo48",
+      "flags": {},
+      "type": 0,
+      "text": "Eltal: Female Elf Cleric, Evil. Eltal has an angular face, with black hair and hazel eyes. She wears plate mail and wields a hammer. Eltal is cursed with amnesia.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y4hQRBPNKqQsT3B3",
+      "flags": {},
+      "type": 0,
+      "text": "Ugmag: Female Dwarf Paladin, Good. Ugmag has copper hair and soft green eyes, and pointed ears. She wears banded mail and wields a military fork. Ugmag seeks to continue the noble legacy of her father.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mNrbanDCOHyLoF7S",
+      "flags": {},
+      "type": 0,
+      "text": "Ainad: Female Dwarf Druid, Neutral. Ainad has braided white hair and large hazel eyes. She wears leather armor and wields a hammer and dagger. Ainad seeks to discover who murdered her family.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D7nFsY8e1WSSUH8C",
+      "flags": {},
+      "type": 0,
+      "text": "Nimlenwe: Female Tiefling Ranger, Good. Nimlenwe has silver hair and gray eyes. She wears chain mail and wields Lawlance, a magical shortbow said to lead the one who wields it to wealth and glory. Nimlenwe has hawk named Nerwenye.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vxWlAZTU2U0uLuFH",
+      "flags": {},
+      "type": 0,
+      "text": "Heilith: Male Dwarf Paladin, Neutral. Heavily tattooed with grey hair and clean beard. Close spirit bound to Misaganes, sent to direct Hjolmin towards a precious boon.val1,val2,val3",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false
+}
